@@ -27,7 +27,7 @@ body{
     border-radius: 15px;
 }
 .bg-image{
-    background-image: url(images/donation14.webp);
+    background-image: url(images/donation12.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size:100%;
@@ -46,6 +46,8 @@ body{
 .donate-part{
     text-align: center;
     font-style: normal;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .donate-part h1{
     font-size: 55px;
@@ -91,4 +93,39 @@ span{
     margin-left: 2%;
     margin-right: 2%;
     border-radius: 16px;
+}
+.donetion-part{
+    display: flex;
+}
+.two-part{
+    width: 50%;
+    margin: 4%;
+    
+}
+.imagetwo{
+    background-image: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.two-part img{
+    width: 100%;
+}
+
+
+
+
+
+.botton-last{
+    padding-left: 10px;
+    padding-right: 15px;
+}
+footer{
+    color: purple;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer p{
+    color: white;
 }
