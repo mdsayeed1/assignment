@@ -43,3 +43,52 @@ body{
     height: 50%;
     color: white;
 }
+.donate-part{
+    text-align: center;
+    font-style: normal;
+}
+.donate-part h1{
+    font-size: 55px;
+}
+ul li{
+    display: inline-block;
+    color: black;
+    text-align:center;
+    padding: 44px 46px;
+    text-decoration: none;
+    background-color: aliceblue;
+    border-radius: 13px;  
+}
+.border-use{
+    border: 3px solid gray;
+}
+ul{
+    padding-left:20%;
+    padding-right: 20%;
+}
+section{
+    text-align: center;
+}
+hr{
+    width:50%;
+}
+span{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.ditails{
+    display: flex;
+    padding: 10px;
+    margin-top: 20px;
+}
+.three-section{
+    width: 30.6%;
+    padding: 20px 25px;
+    background-color: beige;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 16px;
+}
