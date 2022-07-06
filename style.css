@@ -94,13 +94,18 @@ span{
     margin-right: 2%;
     border-radius: 16px;
 }
-.donetion-part{
-    display: flex;
-}
+
 .two-part{
     width: 50%;
     margin: 4%;
-    
+    padding:20px;  
+}
+.two-part h1{
+    font-size: 55px;
+}
+.two-part p{
+    padding-bottom: 10px;
+    text-align: justify;
 }
 .imagetwo{
     background-image: 50%;
@@ -110,14 +115,15 @@ span{
 .two-part img{
     width: 100%;
 }
-
-
-
-
-
+.donetion-part{
+    display: flex;
+}
 .botton-last{
-    padding-left: 10px;
-    padding-right: 15px;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 15px 20px;
+    color:white;
+    border-radius: 18px;
 }
 footer{
     color: purple;
